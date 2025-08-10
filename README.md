@@ -1,2 +1,6 @@
 # MTG-Mana-Base
-Mana Base Helper App :)
+
+Step 1: 
+```pip install pulp```
+Step 2:
+Run :)
