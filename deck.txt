@@ -1,0 +1,87 @@
+1 Academy Manufactor
+1 Aggravated Assault
+1 Ancient Copper Dragon
+1 Ancient Stone Idol
+1 Arcane Signet
+1 Astral Dragon
+1 Brass's Bounty
+1 Cascade Bluffs
+1 Cavern-Hoard Dragon
+1 Chrome Host Seedshark
+1 City of Brass
+1 Command Beacon
+1 Command Tower
+1 Counterspell
+1 Court of Vantress
+1 Curiosity Crafter
+1 Deflecting Swat
+1 Descent into Avernus
+1 Fable of the Mirror-Breaker
+1 Fierce Guardianship
+1 Fiery Islet
+1 Flameshadow Conjuring
+1 Force of Negation
+1 Force of Will
+1 Frostboil Snarl
+1 Gamble
+1 Genesis Chamber
+1 Goldspan Dragon
+1 Helm of the Host
+1 Idol of Oblivion
+1 Invasion of Segovia
+8 Island
+1 Izzet Boilerworks
+1 Kiki-Jiki, Mirror Breaker
+1 Kindred Discovery
+1 Liquimetal Coating
+1 Liquimetal Torque
+1 Mana Confluence
+1 Mechanized Production
+1 Mirror Box
+1 Mirror Gallery
+8 Mountain
+1 Myr Battlesphere
+1 Myr Turbine
+1 Myriad Landscape
+1 Mystic Reflection
+1 Mystical Tutor
+1 Orthion, Hero of Lavabrink
+1 Pongify
+1 Quasiduplicate
+1 Rapid Hybridization
+1 Rhystic Study
+1 Rite of Replication
+1 Riverglide Pathway
+1 Saheeli, Sublime Artificer
+1 Scalding Tarn
+1 See Double
+1 Sharding Sphinx
+1 Shared Animosity
+1 Shark Typhoon
+1 Shimmer Dragon
+1 Shivan Reef
+1 Skull of Orm
+1 Skullclamp
+1 Sol Ring
+1 Spell Pierce
+1 Spirebluff Canal
+1 Steam Vents
+1 Storm the Vault
+1 Stormcarved Coast
+1 Sulfur Falls
+1 Sundial of the Infinite
+1 Swan Song
+1 Talisman of Creativity
+1 Tezzeret, Artifice Master
+1 The Locust God
+1 Theoretical Duplication
+1 There and Back Again
+1 Third Path Iconoclast
+1 Thopter Spy Network
+1 Training Center
+1 Transcendent Message
+1 Urza, Lord High Artificer
+1 Urza's Saga
+1 Wurmcoil Engine
+
+1 Brudiclad, Telchor Engineer
